@@ -23,12 +23,12 @@
 ######## #### ##    ## ######## ######## ######   ######  ##          ## 
 ```
 
-- 🔭 I’m currently working on game develop
+- 🖥  I’m currently working on game develop
 
-> Google Play Store :
+> 🕹 Google Play Store :
 https://play.google.com/store/apps/dev?id=5184010402478313212
 
-> Blog :
+> 📒 Blog :
 https://lixelsoft.github.io
 
 <!--
